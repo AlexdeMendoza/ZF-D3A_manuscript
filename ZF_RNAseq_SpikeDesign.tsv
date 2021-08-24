@@ -1,0 +1,21 @@
+line	RL	ZF_samples	Library_name	Cells	Expected_RNA_yield_(ng)	Spike-in	Type_of_Spike-in	Ratio_of_wd_cells_relative_to_50,000_cells	Elute_volume_(ul)	Concentration_(ng/ul)	Total_RNA_amount_(ng)	Volume_for_400ng_of_library_prep	Volume_of_H2O_to_25ul
+1	RL2045	WT_noDox_rep1	ZF598_D3awt_P2A_GFP_noDox_mRNAseq_rep1	50000	1000	2_ul_of_b1	Mix_1		40	30.8	1232	12.99	12.01
+2	RL2046	WT_noDox_rep2	ZF598_D3awt_P2A_GFP_noDox_mRNAseq_rep2	50000	1000	2_ul_of_b2	Mix_2		40	31.2	1248	12.82	12.18
+3	RL2047	WT_noDox_rep3	ZF598_D3awt_P2A_GFP_noDox_mRNAseq_rep3	50000	1000	2_ul_of_b1	Mix_1		40	24.6	984	16.26	8.74
+4	RL2048	WT_noDox_rep4	ZF598_D3awt_P2A_GFP_noDox_mRNAseq_rep4	50000	1000	2_ul_of_b2	Mix_2		40	26.2	1048	15.27	9.73
+5	RL2049	WT_Dox_rep1	ZF598_D3awt_P2A_GFP_Dox1000_3d_mRNAseq_rep1	50000	1000	2_ul_of_b2	Mix_2		40	28.6	1144	13.99	11.01
+6	RL2050	WT_Dox_rep2	ZF598_D3awt_P2A_GFP_Dox1000_3d_mRNAseq_rep2	50000	1000	2_ul_of_b1	Mix_1		40	32.2	1288	12.42	12.58
+7	RL2051	WT_Dox_rep3	ZF598_D3awt_P2A_GFP_Dox1000_3d_mRNAseq_rep3	50000	1000	2_ul_of_b2	Mix_2		40	32	1280	12.5	12.5
+8	RL2052	WT_Dox_rep4	ZF598_D3awt_P2A_GFP_Dox1000_3d_mRNAseq_rep4	50000	1000	2_ul_of_b1	Mix_1		40	32	1280	12.5	12.5
+9	RL2053	Mut_noDox_rep1	ZF598_D3amut_P2A_GFP_noDox_mRNAseq_rep1	50000	1000	2_ul_of_b1	Mix_1		40	24.4	976	16.39	8.61
+10	RL2054	Mut_noDox_rep2	ZF598_D3amut_P2A_GFP_noDox_mRNAseq_rep2	50000	1000	2_ul_of_b2	Mix_2		40	29.4	1176	13.61	11.39
+11	RL2055	Mut_noDox_rep3	ZF598_D3amut_P2A_GFP_noDox_mRNAseq_rep3	50000	1000	2_ul_of_b1	Mix_1		40	21.2	848	18.87	6.13
+12	RL2056	Mut_noDox_rep4	ZF598_D3amut_P2A_GFP_noDox_mRNAseq_rep4	50000	1000	2_ul_of_b2	Mix_2		40	25.4	1016	15.75	9.25
+13	RL2057	Mut_Dox_rep1	ZF598_D3amut_P2A_GFP_Dox1000_3d_mRNAseq_rep1	50000	1000	2_ul_of_b2	Mix_2		40	23	920	17.39	7.61
+14	RL2058	Mut_Dox_rep2	ZF598_D3amut_P2A_GFP_Dox1000_3d_mRNAseq_rep2	50000	1000	2_ul_of_b1	Mix_1		40	24.6	984	16.26	8.74
+15	RL2059	Mut_Dox_rep3	ZF598_D3amut_P2A_GFP_Dox1000_3d_mRNAseq_rep3	50000	1000	2_ul_of_b2	Mix_2		40	24.6	984	16.26	8.74
+16	RL2060	Mut_Dox_rep4	ZF598_D3amut_P2A_GFP_Dox1000_3d_mRNAseq_rep4	50000	1000	2_ul_of_b1	Mix_1		40	27.4	1096	14.6	10.4
+17	RL2061	WT_Dox_wd_rep1	ZF598_D3awt_P2A_GFP_Dox1000_3d_withdraw7d_mRNAseq_rep1	13734	274.68	5.49_ul_of_c1	Mix_1	5.49	20	18	360	20	5
+18	RL2062	WT_Dox_wd_rep6	ZF598_D3awt_P2A_GFP_Dox1000_3d_withdraw7d_mRNAseq_rep6	50000	1000	2_ul_of_b2	Mix_2		40	24	960	16.67	8.33
+19	RL2063	WT_Dox_wd_rep3	ZF598_D3awt_P2A_GFP_Dox1000_3d_withdraw7d_mRNAseq_rep3	13734	274.68	5.49_ul_of_c1	Mix_1	5.49	20	20.2	404	19.8	5.2
+20	RL2064	WT_Dox_wd_rep5	ZF598_D3awt_P2A_GFP_Dox1000_3d_withdraw7d_mRNAseq_rep5	42252	845.04	1.69_ul_of_b2	Mix_2	1.69	40	32.8	1312	12.2	12.8
