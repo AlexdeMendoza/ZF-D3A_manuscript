@@ -1,7 +1,8 @@
 # ZF-D3A
 
 
-Files and code used for de Mendoza, A., Nguyen, T., Ford, E. et al. "Limited repressive capacity of promoter DNA methylation revealed through epigenome manipulation". 
+Files and code used for de Mendoza, A., Nguyen, T., Ford, E. et al. "Large-scale manipulation of promoter DNA methylation reveals context-specific transcriptional responses and stability
+". Genome Biology, 2022.
 
 
 **Code**
